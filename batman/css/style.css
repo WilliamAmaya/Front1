@@ -1,0 +1,39 @@
+.fondo {
+    background-color: #e6e6e6;
+    text-align: center;
+}
+.titulo {
+    text-align: center;
+    background-color: #c4c4c4;
+    color: #005677;
+    height: 60px;
+}
+.texto_titulo {
+    padding-top: 0.8rem;
+    word-spacing: 30px;
+}
+.secundario {
+    background-color: #c4c4c4;
+    color: #005677;
+}
+
+.margen {
+    margin-top: 120px;
+}
+.margen_lista {
+    margin-left: 18px;
+}
+.bullets {
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #005677;
+    color: #fff;
+    text-align: center;
+}
+
+.linea {
+    display: inline;
+}
